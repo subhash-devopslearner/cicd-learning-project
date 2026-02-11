@@ -1,0 +1,25 @@
+{
+  "name": "cicd-learning-project",
+  "version": "1.0.0",
+  "description": "Learning CI/CD DevOps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhash-devopslearner/cicd-learning-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/subhash-devopslearner/cicd-learning-project/issues"
+  },
+  "homepage": "https://github.com/subhash-devopslearner/cicd-learning-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
